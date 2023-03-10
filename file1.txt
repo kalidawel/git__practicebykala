@@ -1,2 +1,0 @@
-greeting team 1
-from kala
